@@ -1,0 +1,26 @@
+.logo-empresa {
+    width: 150px;
+    height: 150px;
+}
+
+.copy {
+    background-color: rgb(244, 191, 150);
+    align-items: center;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+
+
+
+.navbar navbar-expand-lg {
+    background-color: rgb(244, 191, 150);
+}
+
+
+.barra {
+    background-color: rgb(244, 191, 150);
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
