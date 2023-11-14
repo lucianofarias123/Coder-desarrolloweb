@@ -24,3 +24,7 @@
     font-size: xx-large;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+.nbtn btn-primary {   
+    background-color:rgb(244, 191, 150); 
+}
