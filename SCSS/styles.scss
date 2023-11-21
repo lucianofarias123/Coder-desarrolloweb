@@ -1,2 +1,20 @@
-@import "./base/reset";
+
 @import "./utilities/variables";
+@import "./base/reset";
+@import "./base/tipografias";
+
+//utilities
+
+@import "./utilities/mixins";
+@import "./utilities/condicionales";
+
+//views
+
+@import "./views/accesorios";
+@import "./views/productos";
+@import "./views/nosotros";
+@import "./views/contacto";
+@import "./views/home";
+
+//sass
+

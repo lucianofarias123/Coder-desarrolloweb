@@ -12,19 +12,34 @@
     color: black;
 }
 
-
-
-.navbar navbar-expand-lg {
+.btn-compra {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    border-radius: 1px;
+    width: 100px;
+    height: 40px;
+    font-weight: bold;
+    transition: 0.3s;
     background-color: rgb(244, 191, 150);
 }
 
+.btn-compra:hover {
+    opacity: .7;
+}
+
+.card-accesorios {  
+    position: relative;
+}
 
 .barra {
-    background-color: rgb(244, 191, 150);
     font-size: xx-large;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+    background-color: rgb(244, 191, 150);
 }
 
-.nbtn btn-primary {   
-    background-color:rgb(244, 191, 150); 
-}
+/*# sourceMappingURL=style.css.map */
