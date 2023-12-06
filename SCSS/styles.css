@@ -1,0 +1,17 @@
+.logo-empresa {
+  width: 150px;
+  height: 150px;
+}
+
+.copy {
+  align-items: center;
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  color: black;
+}
+
+.barra {
+  font-size: xx-large;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}/*# sourceMappingURL=styles.css.map */
